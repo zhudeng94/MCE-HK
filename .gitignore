@@ -1,0 +1,33 @@
+# Local-only website, deployment, research and archived material
+/local/
+
+# Production inputs, generated data/results, and run state
+/data/
+/outputs/
+/.tmp/
+
+# Existing scheduled job's local forwarding entrypoint
+/scripts/daily_update.sh
+
+# Python environments, build products and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# Private environment settings and editor/host files
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+/.agents/
+/.aws/
+/.codex/

@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cmhk-emissions"
+version = "0.1.0"
+description = "MCE-HK: monthly combustion CO2 emissions for Hong Kong, sector methods and uncertainty"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.2,<3", "numpy>=1.24,<3", "scipy>=1.10,<2", "requests>=2.31,<3",
+  "pdfplumber>=0.11,<1", "matplotlib>=3.8,<4", "holidays>=0.60,<1", "openpyxl>=3.1,<4"
+]
+
+[project.urls]
+Repository = "https://github.com/zhudeng94/MCE-HK"
+Documentation = "https://github.com/zhudeng94/MCE-HK/blob/main/README.md"
+Website = "https://carbon-hk.iearth.hk"
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+
+[project.scripts]
+cmhk = "cmhk.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["cmhk*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+norecursedirs = ["archive", ".tmp", "web", "satellite", "local"]
+pythonpath = ["src"]
+cache_dir = ".tmp/pytest"
+markers = [
+  "integration: requires cached inputs or generated core results",
+  "comparison: requires optional external comparison outputs",
+  "research: requires optional paper figures"
+]

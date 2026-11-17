@@ -1,0 +1,673 @@
+date,sector,ktCO2,method,estimate_label,as_of
+2019-01-01,Industry,57.80648948049543,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-02-01,Industry,50.74052507924012,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-03-01,Industry,55.644698868540765,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-04-01,Industry,61.973766673429296,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-05-01,Industry,64.24405993318766,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-06-01,Industry,67.82131139708231,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-07-01,Industry,69.11860532304988,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-08-01,Industry,68.58789417151769,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-09-01,Industry,61.5905041755267,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-10-01,Industry,59.90016791622742,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-11-01,Industry,56.80426619767766,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-12-01,Industry,53.09958798005331,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-01-01,Industry,59.86996173048695,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-02-01,Industry,49.9641046907454,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-03-01,Industry,53.53180743373175,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-04-01,Industry,54.770191232603736,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-05-01,Industry,67.2419899615555,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-06-01,Industry,65.46294183983159,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-07-01,Industry,66.27865490593344,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-08-01,Industry,68.12633521155188,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-09-01,Industry,60.59806072813807,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-10-01,Industry,53.75784144257561,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-11-01,Industry,56.10660450028782,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2020-12-01,Industry,54.701270155558184,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-01-01,Industry,50.429133827418646,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-02-01,Industry,44.718444879146524,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-03-01,Industry,47.19895835155667,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-04-01,Industry,52.53054794862671,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-05-01,Industry,63.56833663172769,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-06-01,Industry,61.17496225096101,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-07-01,Industry,59.039611480166045,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-08-01,Industry,59.274975632709406,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-09-01,Industry,59.26479463783334,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-10-01,Industry,52.50000496399849,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-11-01,Industry,45.903802340815695,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2021-12-01,Industry,52.21198646803981,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-01-01,Industry,50.62771576405766,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-02-01,Industry,45.41665380957675,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-03-01,Industry,45.03021902981604,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-04-01,Industry,51.75538092142909,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-05-01,Industry,60.671941592211105,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-06-01,Industry,57.46387747513623,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-07-01,Industry,64.07803954728377,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-08-01,Industry,61.93086348568898,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-09-01,Industry,54.55500397306738,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-10-01,Industry,54.4910724374935,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-11-01,Industry,52.65162368985708,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2022-12-01,Industry,51.07773618518621,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-01-01,Industry,50.568144745456664,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-02-01,Industry,46.23815609735638,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-03-01,Industry,50.98129658143192,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-04-01,Industry,54.29327720477027,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-05-01,Industry,59.40559981451217,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-06-01,Industry,60.860768639459266,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-07-01,Industry,61.01060242986405,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-08-01,Industry,61.169313734623465,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-09-01,Industry,55.96934422009745,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-10-01,Industry,52.91678363168122,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-11-01,Industry,50.54185690245635,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2023-12-01,Industry,50.00581031975434,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-01-01,Industry,55.6085673620639,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-02-01,Industry,48.612352249044854,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-03-01,Industry,51.41954819786205,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-04-01,Industry,56.33535813571963,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-05-01,Industry,59.409405240453545,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-06-01,Industry,62.04075031759625,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-07-01,Industry,63.627990134916374,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-08-01,Industry,60.61929579505056,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-09-01,Industry,58.09635977693127,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-10-01,Industry,51.28830347546138,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-11-01,Industry,48.76128116955084,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2024-12-01,Industry,48.68269073307725,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-01-01,Industry,45.050113851650124,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-02-01,Industry,45.94049818747109,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-03-01,Industry,47.31798999209816,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-04-01,Industry,52.2315295974201,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-05-01,Industry,54.937750715937476,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-06-01,Industry,60.44889745073641,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-07-01,Industry,58.409356060188806,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-08-01,Industry,60.30095981985354,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-09-01,Industry,52.90512335752664,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-10-01,Industry,54.18027131083369,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-11-01,Industry,47.52247841616731,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2025-12-01,Industry,51.94274951915078,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-01-01,Industry,48.06920052513669,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-02-01,Industry,49.161970261479844,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-03-01,Industry,48.953867060867815,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-04-01,Industry,57.82162993126184,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-05-01,Industry,56.23051708950186,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-06-01,Industry,57.12445595447766,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-07-01,Industry,57.91749467197656,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-08-01,Industry,64.42893152611705,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-09-01,Industry,,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-10-01,Industry,,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-11-01,Industry,,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2026-12-01,Industry,,CRT calibrated gas + electricity proxies,Modelled estimate,2026-10-13
+2019-01-01,Power,1934.1627239529796,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-02-01,Power,1715.8588801857204,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-03-01,Power,2042.1126662117404,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-04-01,Power,2379.5484797786503,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-05-01,Power,2679.635425182776,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-06-01,Power,3194.992758194196,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-07-01,Power,3274.217801235206,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-08-01,Power,3208.261071187041,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-09-01,Power,2912.5894637810416,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-10-01,Power,2777.0568754027654,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-11-01,Power,2122.682320066576,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-12-01,Power,1989.886294821308,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-01-01,Power,1392.7345997365462,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-02-01,Power,1271.274608384031,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-03-01,Power,1432.4417169423257,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-04-01,Power,1338.8908788155356,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-05-01,Power,2083.0385199427765,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-06-01,Power,2383.0740079520046,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-07-01,Power,2546.3983675227064,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-08-01,Power,2284.4818521422444,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-09-01,Power,2212.653943285955,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-10-01,Power,1910.392199176169,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-11-01,Power,1657.6940972287462,liquid_0_response_0,Modelled estimate,2026-10-13
+2020-12-01,Power,1482.86224887096,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-01-01,Power,1485.595339843042,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-02-01,Power,1284.846959798227,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-03-01,Power,1608.221242686987,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-04-01,Power,1721.611484090056,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-05-01,Power,2497.7092789042745,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-06-01,Power,2491.261164922187,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-07-01,Power,2551.052832533774,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-08-01,Power,2443.803669020206,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-09-01,Power,2465.5861346847514,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-10-01,Power,1971.524399141398,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-11-01,Power,1543.4438300917084,liquid_0_response_0,Modelled estimate,2026-10-13
+2021-12-01,Power,1453.123994283393,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-01-01,Power,1461.8854352585402,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-02-01,Power,1324.0120829271336,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-03-01,Power,1467.4022676166942,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-04-01,Power,1616.168608889575,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-05-01,Power,1896.8334537527865,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-06-01,Power,2380.3299739425943,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-07-01,Power,2632.5027444613406,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-08-01,Power,2477.3223973377026,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-09-01,Power,2385.100889690782,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-10-01,Power,2077.06364796985,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-11-01,Power,1786.9731208893943,liquid_0_response_0,Modelled estimate,2026-10-13
+2022-12-01,Power,1615.7281072636076,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-01-01,Power,1355.6744338186977,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-02-01,Power,1238.7485371557566,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-03-01,Power,1435.499481956071,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-04-01,Power,1594.0856696488945,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-05-01,Power,2031.635267614981,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-06-01,Power,2404.6766030463004,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-07-01,Power,2494.472362834516,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-08-01,Power,2460.8527348360067,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-09-01,Power,2177.233420015675,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-10-01,Power,2355.2767731161484,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-11-01,Power,1991.8264254489063,liquid_0_response_0,Modelled estimate,2026-10-13
+2023-12-01,Power,1895.4685705080476,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-01-01,Power,1483.1962466125638,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-02-01,Power,1376.3834156626085,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-03-01,Power,1569.186877110874,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-04-01,Power,2073.636597748666,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-05-01,Power,2133.119499587478,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-06-01,Power,2428.906975854553,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-07-01,Power,2278.746996903221,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-08-01,Power,2229.1876559415387,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-09-01,Power,2082.9690100885737,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-10-01,Power,1879.7969764670756,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-11-01,Power,1482.271400315669,liquid_0_response_0,Modelled estimate,2026-10-13
+2024-12-01,Power,1309.9768277071778,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-01-01,Power,1252.504376248877,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-02-01,Power,1147.4451522587697,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-03-01,Power,1339.0535970800147,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-04-01,Power,1455.6249285332738,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-05-01,Power,1886.4994377290536,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-06-01,Power,2081.29783035551,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-07-01,Power,2150.0045073228257,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-08-01,Power,2052.1160281026323,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-09-01,Power,2001.2812273923928,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-10-01,Power,1932.1133423344647,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-11-01,Power,1387.831059926374,liquid_0_response_0,Modelled estimate,2026-10-13
+2025-12-01,Power,1325.6414497324122,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-01-01,Power,1260.6659435440174,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-02-01,Power,1129.4027682091726,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-03-01,Power,1369.0513608123192,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-04-01,Power,1490.1248671103672,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-05-01,Power,1734.3821867421984,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-06-01,Power,1968.9578098544248,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-07-01,Power,,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-08-01,Power,,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-09-01,Power,,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-10-01,Power,,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-11-01,Power,,liquid_0_response_0,Modelled estimate,2026-10-13
+2026-12-01,Power,,liquid_0_response_0,Modelled estimate,2026-10-13
+2019-01-01,Transport,475.6103962629497,ev_mileage_1,Modelled estimate,2026-10-13
+2019-02-01,Transport,384.9814769312852,ev_mileage_1,Modelled estimate,2026-10-13
+2019-03-01,Transport,477.26420756974585,ev_mileage_1,Modelled estimate,2026-10-13
+2019-04-01,Transport,440.42744230763446,ev_mileage_1,Modelled estimate,2026-10-13
+2019-05-01,Transport,464.4559873706484,ev_mileage_1,Modelled estimate,2026-10-13
+2019-06-01,Transport,436.9194122250578,ev_mileage_1,Modelled estimate,2026-10-13
+2019-07-01,Transport,448.64484341184993,ev_mileage_1,Modelled estimate,2026-10-13
+2019-08-01,Transport,440.5916337117488,ev_mileage_1,Modelled estimate,2026-10-13
+2019-09-01,Transport,436.1843602739801,ev_mileage_1,Modelled estimate,2026-10-13
+2019-10-01,Transport,445.5612622756725,ev_mileage_1,Modelled estimate,2026-10-13
+2019-11-01,Transport,399.6719869188378,ev_mileage_1,Modelled estimate,2026-10-13
+2019-12-01,Transport,435.3969546605893,ev_mileage_1,Modelled estimate,2026-10-13
+2020-01-01,Transport,436.9666957495671,ev_mileage_1,Modelled estimate,2026-10-13
+2020-02-01,Transport,350.1091524864104,ev_mileage_1,Modelled estimate,2026-10-13
+2020-03-01,Transport,384.917368385652,ev_mileage_1,Modelled estimate,2026-10-13
+2020-04-01,Transport,352.43389058421656,ev_mileage_1,Modelled estimate,2026-10-13
+2020-05-01,Transport,405.767670496611,ev_mileage_1,Modelled estimate,2026-10-13
+2020-06-01,Transport,422.9875818618964,ev_mileage_1,Modelled estimate,2026-10-13
+2020-07-01,Transport,408.3880663591169,ev_mileage_1,Modelled estimate,2026-10-13
+2020-08-01,Transport,381.0824297209661,ev_mileage_1,Modelled estimate,2026-10-13
+2020-09-01,Transport,416.26774010363226,ev_mileage_1,Modelled estimate,2026-10-13
+2020-10-01,Transport,422.2363565319258,ev_mileage_1,Modelled estimate,2026-10-13
+2020-11-01,Transport,427.92936668736246,ev_mileage_1,Modelled estimate,2026-10-13
+2020-12-01,Transport,408.35484277664295,ev_mileage_1,Modelled estimate,2026-10-13
+2021-01-01,Transport,387.1534375067009,ev_mileage_1,Modelled estimate,2026-10-13
+2021-02-01,Transport,349.9141383904687,ev_mileage_1,Modelled estimate,2026-10-13
+2021-03-01,Transport,425.2577163900936,ev_mileage_1,Modelled estimate,2026-10-13
+2021-04-01,Transport,405.0471008425867,ev_mileage_1,Modelled estimate,2026-10-13
+2021-05-01,Transport,425.5984196559142,ev_mileage_1,Modelled estimate,2026-10-13
+2021-06-01,Transport,418.12511475489,ev_mileage_1,Modelled estimate,2026-10-13
+2021-07-01,Transport,432.9524784755645,ev_mileage_1,Modelled estimate,2026-10-13
+2021-08-01,Transport,435.4309007278041,ev_mileage_1,Modelled estimate,2026-10-13
+2021-09-01,Transport,427.70821662583415,ev_mileage_1,Modelled estimate,2026-10-13
+2021-10-01,Transport,405.8187799305117,ev_mileage_1,Modelled estimate,2026-10-13
+2021-11-01,Transport,435.4711781053953,ev_mileage_1,Modelled estimate,2026-10-13
+2021-12-01,Transport,449.3484956950356,ev_mileage_1,Modelled estimate,2026-10-13
+2022-01-01,Transport,399.4960988907434,ev_mileage_1,Modelled estimate,2026-10-13
+2022-02-01,Transport,286.9627647032089,ev_mileage_1,Modelled estimate,2026-10-13
+2022-03-01,Transport,321.5057310040073,ev_mileage_1,Modelled estimate,2026-10-13
+2022-04-01,Transport,349.92379486754936,ev_mileage_1,Modelled estimate,2026-10-13
+2022-05-01,Transport,394.5109658889144,ev_mileage_1,Modelled estimate,2026-10-13
+2022-06-01,Transport,398.7494935903868,ev_mileage_1,Modelled estimate,2026-10-13
+2022-07-01,Transport,396.4528325816052,ev_mileage_1,Modelled estimate,2026-10-13
+2022-08-01,Transport,407.4658292960321,ev_mileage_1,Modelled estimate,2026-10-13
+2022-09-01,Transport,396.4624791307359,ev_mileage_1,Modelled estimate,2026-10-13
+2022-10-01,Transport,393.88595205644987,ev_mileage_1,Modelled estimate,2026-10-13
+2022-11-01,Transport,396.8665092824458,ev_mileage_1,Modelled estimate,2026-10-13
+2022-12-01,Transport,407.56376438472137,ev_mileage_1,Modelled estimate,2026-10-13
+2023-01-01,Transport,365.1444488233833,ev_mileage_1,Modelled estimate,2026-10-13
+2023-02-01,Transport,359.7315855998384,ev_mileage_1,Modelled estimate,2026-10-13
+2023-03-01,Transport,413.6009272571067,ev_mileage_1,Modelled estimate,2026-10-13
+2023-04-01,Transport,367.016716842635,ev_mileage_1,Modelled estimate,2026-10-13
+2023-05-01,Transport,396.0637824313321,ev_mileage_1,Modelled estimate,2026-10-13
+2023-06-01,Transport,388.634825888443,ev_mileage_1,Modelled estimate,2026-10-13
+2023-07-01,Transport,382.5018120245586,ev_mileage_1,Modelled estimate,2026-10-13
+2023-08-01,Transport,409.43210816794766,ev_mileage_1,Modelled estimate,2026-10-13
+2023-09-01,Transport,371.9686998217923,ev_mileage_1,Modelled estimate,2026-10-13
+2023-10-01,Transport,389.7845930580372,ev_mileage_1,Modelled estimate,2026-10-13
+2023-11-01,Transport,411.22128343956126,ev_mileage_1,Modelled estimate,2026-10-13
+2023-12-01,Transport,400.92740057816496,ev_mileage_1,Modelled estimate,2026-10-13
+2024-01-01,Transport,401.99455304034814,ev_mileage_1,Modelled estimate,2026-10-13
+2024-02-01,Transport,341.882183540232,ev_mileage_1,Modelled estimate,2026-10-13
+2024-03-01,Transport,393.5023934781792,ev_mileage_1,Modelled estimate,2026-10-13
+2024-04-01,Transport,376.9244432512612,ev_mileage_1,Modelled estimate,2026-10-13
+2024-05-01,Transport,391.151400449501,ev_mileage_1,Modelled estimate,2026-10-13
+2024-06-01,Transport,374.79949400222375,ev_mileage_1,Modelled estimate,2026-10-13
+2024-07-01,Transport,389.42356753393415,ev_mileage_1,Modelled estimate,2026-10-13
+2024-08-01,Transport,393.7070445410952,ev_mileage_1,Modelled estimate,2026-10-13
+2024-09-01,Transport,371.4847401347828,ev_mileage_1,Modelled estimate,2026-10-13
+2024-10-01,Transport,394.3703576632381,ev_mileage_1,Modelled estimate,2026-10-13
+2024-11-01,Transport,392.8199930587013,ev_mileage_1,Modelled estimate,2026-10-13
+2024-12-01,Transport,393.4465368137028,ev_mileage_1,Modelled estimate,2026-10-13
+2025-01-01,Transport,377.8465998501142,ev_mileage_1,Modelled estimate,2026-10-13
+2025-02-01,Transport,340.02131072666907,ev_mileage_1,Modelled estimate,2026-10-13
+2025-03-01,Transport,397.54675761172496,ev_mileage_1,Modelled estimate,2026-10-13
+2025-04-01,Transport,363.0935511452661,ev_mileage_1,Modelled estimate,2026-10-13
+2025-05-01,Transport,382.1278466671095,ev_mileage_1,Modelled estimate,2026-10-13
+2025-06-01,Transport,374.8227675962653,ev_mileage_1,Modelled estimate,2026-10-13
+2025-07-01,Transport,376.42811669174506,ev_mileage_1,Modelled estimate,2026-10-13
+2025-08-01,Transport,375.6626733708239,ev_mileage_1,Modelled estimate,2026-10-13
+2025-09-01,Transport,358.08689380133166,ev_mileage_1,Modelled estimate,2026-10-13
+2025-10-01,Transport,382.8141569746479,ev_mileage_1,Modelled estimate,2026-10-13
+2025-11-01,Transport,383.6798279178206,ev_mileage_1,Modelled estimate,2026-10-13
+2025-12-01,Transport,383.3357484567877,ev_mileage_1,Modelled estimate,2026-10-13
+2026-01-01,Transport,386.9480621202066,ev_mileage_1,Modelled estimate,2026-10-13
+2026-02-01,Transport,321.88545796796814,ev_mileage_1,Modelled estimate,2026-10-13
+2026-03-01,Transport,388.4827463951663,ev_mileage_1,Modelled estimate,2026-10-13
+2026-04-01,Transport,352.20834834673235,ev_mileage_1,Modelled estimate,2026-10-13
+2026-05-01,Transport,366.1291366316341,ev_mileage_1,Modelled estimate,2026-10-13
+2026-06-01,Transport,360.1336422382568,ev_mileage_1,Modelled estimate,2026-10-13
+2026-07-01,Transport,365.640044610534,ev_mileage_1,Modelled estimate,2026-10-13
+2026-08-01,Transport,,ev_mileage_1,Modelled estimate,2026-10-13
+2026-09-01,Transport,,ev_mileage_1,Modelled estimate,2026-10-13
+2026-10-01,Transport,,ev_mileage_1,Modelled estimate,2026-10-13
+2026-11-01,Transport,,ev_mileage_1,Modelled estimate,2026-10-13
+2026-12-01,Transport,,ev_mileage_1,Modelled estimate,2026-10-13
+2019-01-01,Residential,110.66736562521082,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-02-01,Residential,108.98666965193075,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-03-01,Residential,87.46083276338216,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-04-01,Residential,94.11897450368396,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-05-01,Residential,76.21309817296938,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-06-01,Residential,71.17101025312917,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-07-01,Residential,58.50114830071016,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-08-01,Residential,61.28076087190413,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-09-01,Residential,63.54323622055038,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-10-01,Residential,64.38358420719041,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-11-01,Residential,81.12590178717267,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-12-01,Residential,93.47255297549933,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-01-01,Residential,102.81747920607332,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-02-01,Residential,114.53006150479472,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-03-01,Residential,99.01880386594746,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-04-01,Residential,103.70383678543602,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-05-01,Residential,86.03999645385078,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-06-01,Residential,78.75920205194286,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-07-01,Residential,62.994699390420536,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-08-01,Residential,66.03363966252124,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-09-01,Residential,71.6050301613725,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-10-01,Residential,79.20238084162422,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-11-01,Residential,90.97827439601438,gas_profile_trace_0,Modelled estimate,2026-10-13
+2020-12-01,Residential,100.66489651333534,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-01-01,Residential,133.26425193204096,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-02-01,Residential,124.60239636592372,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-03-01,Residential,92.1364784662546,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-04-01,Residential,96.56364908893676,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-05-01,Residential,74.36363408244365,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-06-01,Residential,63.19946468611475,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-07-01,Residential,63.0069790068677,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-08-01,Residential,66.8566925918087,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-09-01,Residential,64.35437876159706,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-10-01,Residential,57.16824673637385,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-11-01,Residential,92.97058307632516,gas_profile_trace_0,Modelled estimate,2026-10-13
+2021-12-01,Residential,99.1942867053131,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-01-01,Residential,120.77999982485665,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-02-01,Residential,121.03136298786364,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-03-01,Residential,108.8402495820248,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-04-01,Residential,109.28013511728705,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-05-01,Residential,79.74496346396623,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-06-01,Residential,66.48555661534772,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-07-01,Residential,58.00204986386196,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-08-01,Residential,60.57852228468356,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-09-01,Residential,56.17966693206131,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-10-01,Residential,58.56761698062767,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-11-01,Residential,75.91167522810969,gas_profile_trace_0,Modelled estimate,2026-10-13
+2022-12-01,Residential,89.10824128597645,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-01-01,Residential,115.09729772504438,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-02-01,Residential,108.99317641321862,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-03-01,Residential,86.40163465089444,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-04-01,Residential,91.93939419151988,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-05-01,Residential,71.42451225693023,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-06-01,Residential,65.19453277372662,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-07-01,Residential,55.31466632056534,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-08-01,Residential,54.05608460678683,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-09-01,Residential,57.32839706261096,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-10-01,Residential,57.58011340536665,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-11-01,Residential,73.3753139132869,gas_profile_trace_0,Modelled estimate,2026-10-13
+2023-12-01,Residential,84.95426568004916,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-01-01,Residential,107.4079561368359,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-02-01,Residential,111.21400383177485,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-03-01,Residential,92.44180248894044,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-04-01,Residential,89.60339403847753,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-05-01,Residential,70.18609986599247,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-06-01,Residential,69.47649775337675,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-07-01,Residential,57.606789687804486,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-08-01,Residential,56.44562259443329,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-09-01,Residential,56.31660402850315,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-10-01,Residential,57.606789687804486,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-11-01,Residential,72.63745261866501,gas_profile_trace_0,Modelled estimate,2026-10-13
+2024-12-01,Residential,90.37750543405832,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-01-01,Residential,109.5367624746831,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-02-01,Residential,110.8914574169495,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-03-01,Residential,88.5067362280714,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-04-01,Residential,101.92466708480524,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-05-01,Residential,71.21824839343354,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-06-01,Residential,71.8633412230842,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-07-01,Residential,59.090503196001016,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-08-01,Residential,58.84536792073376,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-09-01,Residential,56.81139022884521,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-10-01,Residential,57.13071117952229,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-11-01,Residential,81.41394056606231,gas_profile_trace_0,Modelled estimate,2026-10-13
+2025-12-01,Residential,86.48953094975377,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-01-01,Residential,103.11357316985143,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-02-01,Residential,106.8273725901503,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-03-01,Residential,80.97011669926266,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-04-01,Residential,88.62994895853467,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-05-01,Residential,68.29210731813812,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-06-01,Residential,70.95440542610643,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-07-01,Residential,60.91934136806066,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-08-01,Residential,55.432181759052085,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-09-01,Residential,,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-10-01,Residential,,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-11-01,Residential,,gas_profile_trace_0,Modelled estimate,2026-10-13
+2026-12-01,Residential,,gas_profile_trace_0,Modelled estimate,2026-10-13
+2019-01-01,Commercial,87.60411282586101,gas_profile,Modelled estimate,2026-10-13
+2019-02-01,Commercial,76.64487321338277,gas_profile,Modelled estimate,2026-10-13
+2019-03-01,Commercial,66.87230285830665,gas_profile,Modelled estimate,2026-10-13
+2019-04-01,Commercial,73.36408173703579,gas_profile,Modelled estimate,2026-10-13
+2019-05-01,Commercial,68.82681692932186,gas_profile,Modelled estimate,2026-10-13
+2019-06-01,Commercial,70.2927024825833,gas_profile,Modelled estimate,2026-10-13
+2019-07-01,Commercial,66.80249878434182,gas_profile,Modelled estimate,2026-10-13
+2019-08-01,Commercial,66.45347841451766,gas_profile,Modelled estimate,2026-10-13
+2019-09-01,Commercial,66.24406619262318,gas_profile,Modelled estimate,2026-10-13
+2019-10-01,Commercial,61.98601768076858,gas_profile,Modelled estimate,2026-10-13
+2019-11-01,Commercial,64.77818063936176,gas_profile,Modelled estimate,2026-10-13
+2019-12-01,Commercial,58.426009908562285,gas_profile,Modelled estimate,2026-10-13
+2020-01-01,Commercial,80.84838646658343,gas_profile,Modelled estimate,2026-10-13
+2020-02-01,Commercial,66.71057547638122,gas_profile,Modelled estimate,2026-10-13
+2020-03-01,Commercial,52.146498828182985,gas_profile,Modelled estimate,2026-10-13
+2020-04-01,Commercial,52.85694159150973,gas_profile,Modelled estimate,2026-10-13
+2020-05-01,Commercial,49.87308198553741,gas_profile,Modelled estimate,2026-10-13
+2020-06-01,Commercial,58.04317376379496,gas_profile,Modelled estimate,2026-10-13
+2020-07-01,Commercial,57.119598171470194,gas_profile,Modelled estimate,2026-10-13
+2020-08-01,Commercial,45.53938112924427,gas_profile,Modelled estimate,2026-10-13
+2020-09-01,Commercial,44.6158055369195,gas_profile,Modelled estimate,2026-10-13
+2020-10-01,Commercial,55.414535539486,gas_profile,Modelled estimate,2026-10-13
+2020-11-01,Commercial,61.95060896209205,gas_profile,Modelled estimate,2026-10-13
+2020-12-01,Commercial,57.687952382131584,gas_profile,Modelled estimate,2026-10-13
+2021-01-01,Commercial,53.90329804142658,gas_profile,Modelled estimate,2026-10-13
+2021-02-01,Commercial,54.18514535144712,gas_profile,Modelled estimate,2026-10-13
+2021-03-01,Commercial,53.97375986893172,gas_profile,Modelled estimate,2026-10-13
+2021-04-01,Commercial,60.87901896443473,gas_profile,Modelled estimate,2026-10-13
+2021-05-01,Commercial,59.25839693181668,gas_profile,Modelled estimate,2026-10-13
+2021-06-01,Commercial,59.11747327680641,gas_profile,Modelled estimate,2026-10-13
+2021-07-01,Commercial,58.27193134674482,gas_profile,Modelled estimate,2026-10-13
+2021-08-01,Commercial,60.87901896443473,gas_profile,Modelled estimate,2026-10-13
+2021-09-01,Commercial,60.94948079193986,gas_profile,Modelled estimate,2026-10-13
+2021-10-01,Commercial,58.48331682926022,gas_profile,Modelled estimate,2026-10-13
+2021-11-01,Commercial,64.40211033969138,gas_profile,Modelled estimate,2026-10-13
+2021-12-01,Commercial,64.96580495973242,gas_profile,Modelled estimate,2026-10-13
+2022-01-01,Commercial,71.50724345657773,gas_profile,Modelled estimate,2026-10-13
+2022-02-01,Commercial,57.83459056661859,gas_profile,Modelled estimate,2026-10-13
+2022-03-01,Commercial,41.52976920586519,gas_profile,Modelled estimate,2026-10-13
+2022-04-01,Commercial,42.62650606869613,gas_profile,Modelled estimate,2026-10-13
+2022-05-01,Commercial,56.00669579523368,gas_profile,Modelled estimate,2026-10-13
+2022-06-01,Commercial,55.49488525924591,gas_profile,Modelled estimate,2026-10-13
+2022-07-01,Commercial,69.31376973091584,gas_profile,Modelled estimate,2026-10-13
+2022-08-01,Commercial,62.73334855393016,gas_profile,Modelled estimate,2026-10-13
+2022-09-01,Commercial,61.636611691099205,gas_profile,Modelled estimate,2026-10-13
+2022-10-01,Commercial,59.8818327105697,gas_profile,Modelled estimate,2026-10-13
+2022-11-01,Commercial,64.34189595274887,gas_profile,Modelled estimate,2026-10-13
+2022-12-01,Commercial,66.82783284183236,gas_profile,Modelled estimate,2026-10-13
+2023-01-01,Commercial,70.67066266599907,gas_profile,Modelled estimate,2026-10-13
+2023-02-01,Commercial,71.33113614885887,gas_profile,Modelled estimate,2026-10-13
+2023-03-01,Commercial,63.99254189486105,gas_profile,Modelled estimate,2026-10-13
+2023-04-01,Commercial,68.61585627487968,gas_profile,Modelled estimate,2026-10-13
+2023-05-01,Commercial,65.16671697550069,gas_profile,Modelled estimate,2026-10-13
+2023-06-01,Commercial,65.31348886058066,gas_profile,Modelled estimate,2026-10-13
+2023-07-01,Commercial,62.15789333136159,gas_profile,Modelled estimate,2026-10-13
+2023-08-01,Commercial,63.478840297081206,gas_profile,Modelled estimate,2026-10-13
+2023-09-01,Commercial,61.93773550374165,gas_profile,Modelled estimate,2026-10-13
+2023-10-01,Commercial,61.64419173358174,gas_profile,Modelled estimate,2026-10-13
+2023-11-01,Commercial,65.97396234344046,gas_profile,Modelled estimate,2026-10-13
+2023-12-01,Commercial,67.51506713678,gas_profile,Modelled estimate,2026-10-13
+2024-01-01,Commercial,73.36637696350722,gas_profile,Modelled estimate,2026-10-13
+2024-02-01,Commercial,73.73431265540044,gas_profile,Modelled estimate,2026-10-13
+2024-03-01,Commercial,66.81712164780798,gas_profile,Modelled estimate,2026-10-13
+2024-04-01,Commercial,68.43603869213814,gas_profile,Modelled estimate,2026-10-13
+2024-05-01,Commercial,64.4623332196914,gas_profile,Modelled estimate,2026-10-13
+2024-06-01,Commercial,65.78690171050698,gas_profile,Modelled estimate,2026-10-13
+2024-07-01,Commercial,62.181131929953466,gas_profile,Modelled estimate,2026-10-13
+2024-08-01,Commercial,63.4321132823904,gas_profile,Modelled estimate,2026-10-13
+2024-09-01,Commercial,63.50570042076904,gas_profile,Modelled estimate,2026-10-13
+2024-10-01,Commercial,61.07732485427382,gas_profile,Modelled estimate,2026-10-13
+2024-11-01,Commercial,65.05103032672054,gas_profile,Modelled estimate,2026-10-13
+2024-12-01,Commercial,73.36637696350722,gas_profile,Modelled estimate,2026-10-13
+2025-01-01,Commercial,68.50962583051678,gas_profile,Modelled estimate,2026-10-13
+2025-02-01,Commercial,74.02866120891501,gas_profile,Modelled estimate,2026-10-13
+2025-03-01,Commercial,66.08125026402155,gas_profile,Modelled estimate,2026-10-13
+2025-04-01,Commercial,70.05495573646829,gas_profile,Modelled estimate,2026-10-13
+2025-05-01,Commercial,65.12461746509919,gas_profile,Modelled estimate,2026-10-13
+2025-06-01,Commercial,65.6397274337497,gas_profile,Modelled estimate,2026-10-13
+2025-07-01,Commercial,62.54906762184668,gas_profile,Modelled estimate,2026-10-13
+2025-08-01,Commercial,64.03184846017633,gas_profile,Modelled estimate,2026-10-13
+2025-09-01,Commercial,64.93623439084988,gas_profile,Modelled estimate,2026-10-13
+2025-10-01,Commercial,62.27311585292677,gas_profile,Modelled estimate,2026-10-13
+2025-11-01,Commercial,68.1019530838991,gas_profile,Modelled estimate,2026-10-13
+2025-12-01,Commercial,67.32560877400441,gas_profile,Modelled estimate,2026-10-13
+2026-01-01,Commercial,75.14350635535146,gas_profile,Modelled estimate,2026-10-13
+2026-02-01,Commercial,73.37373567734508,gas_profile,Modelled estimate,2026-10-13
+2026-03-01,Commercial,64.48956046089151,gas_profile,Modelled estimate,2026-10-13
+2026-04-01,Commercial,68.03866814489346,gas_profile,Modelled estimate,2026-10-13
+2026-05-01,Commercial,63.60136370066128,gas_profile,Modelled estimate,2026-10-13
+2026-06-01,Commercial,66.6699473710507,gas_profile,Modelled estimate,2026-10-13
+2026-07-01,Commercial,60.75648493094293,gas_profile,Modelled estimate,2026-10-13
+2026-08-01,Commercial,65.05544555502325,gas_profile,Modelled estimate,2026-10-13
+2026-09-01,Commercial,,gas_profile,Modelled estimate,2026-10-13
+2026-10-01,Commercial,,gas_profile,Modelled estimate,2026-10-13
+2026-11-01,Commercial,,gas_profile,Modelled estimate,2026-10-13
+2026-12-01,Commercial,,gas_profile,Modelled estimate,2026-10-13
+2019-01-01,International Aviation,1803.129517623396,movements,Modelled estimate,2026-10-13
+2019-02-01,International Aviation,1559.4633665932074,movements,Modelled estimate,2026-10-13
+2019-03-01,International Aviation,1803.129517623396,movements,Modelled estimate,2026-10-13
+2019-04-01,International Aviation,1757.969931848972,movements,Modelled estimate,2026-10-13
+2019-05-01,International Aviation,1757.969931848972,movements,Modelled estimate,2026-10-13
+2019-06-01,International Aviation,1709.137433742056,movements,Modelled estimate,2026-10-13
+2019-07-01,International Aviation,1773.255836805283,movements,Modelled estimate,2026-10-13
+2019-08-01,International Aviation,1725.3300033781131,movements,Modelled estimate,2026-10-13
+2019-09-01,International Aviation,1581.552503096604,movements,Modelled estimate,2026-10-13
+2019-10-01,International Aviation,1752.9647335200004,movements,Modelled estimate,2026-10-13
+2019-11-01,International Aviation,1701.4069472400004,movements,Modelled estimate,2026-10-13
+2019-12-01,International Aviation,1752.9647335200004,movements,Modelled estimate,2026-10-13
+2020-01-01,International Aviation,1835.83143744,movements,Modelled estimate,2026-10-13
+2020-02-01,International Aviation,1001.36260224,movements,Modelled estimate,2026-10-13
+2020-03-01,International Aviation,667.57506816,movements,Modelled estimate,2026-10-13
+2020-04-01,International Aviation,720.2205770759999,movements,Modelled estimate,2026-10-13
+2020-05-01,International Aviation,880.2695942039998,movements,Modelled estimate,2026-10-13
+2020-06-01,International Aviation,800.2450856399998,movements,Modelled estimate,2026-10-13
+2020-07-01,International Aviation,693.6270889935483,movements,Modelled estimate,2026-10-13
+2020-08-01,International Aviation,693.6270889935483,movements,Modelled estimate,2026-10-13
+2020-09-01,International Aviation,762.9897978929033,movements,Modelled estimate,2026-10-13
+2020-10-01,International Aviation,734.0854309978379,movements,Modelled estimate,2026-10-13
+2020-11-01,International Aviation,867.5555093610811,movements,Modelled estimate,2026-10-13
+2020-12-01,International Aviation,867.5555093610811,movements,Modelled estimate,2026-10-13
+2021-01-01,International Aviation,728.8188387480001,movements,Modelled estimate,2026-10-13
+2021-02-01,International Aviation,530.0500645440001,movements,Modelled estimate,2026-10-13
+2021-03-01,International Aviation,728.8188387480001,movements,Modelled estimate,2026-10-13
+2021-04-01,International Aviation,662.1969729375,movements,Modelled estimate,2026-10-13
+2021-05-01,International Aviation,728.41667023125,movements,Modelled estimate,2026-10-13
+2021-06-01,International Aviation,728.41667023125,movements,Modelled estimate,2026-10-13
+2021-07-01,International Aviation,790.5018844800002,movements,Modelled estimate,2026-10-13
+2021-08-01,International Aviation,856.37704152,movements,Modelled estimate,2026-10-13
+2021-09-01,International Aviation,922.25219856,movements,Modelled estimate,2026-10-13
+2021-10-01,International Aviation,909.13730544,movements,Modelled estimate,2026-10-13
+2021-11-01,International Aviation,974.0756844,movements,Modelled estimate,2026-10-13
+2021-12-01,International Aviation,974.0756844,movements,Modelled estimate,2026-10-13
+2022-01-01,International Aviation,708.354895248,movements,Modelled estimate,2026-10-13
+2022-02-01,International Aviation,472.236596832,movements,Modelled estimate,2026-10-13
+2022-03-01,International Aviation,590.2957460399999,movements,Modelled estimate,2026-10-13
+2022-04-01,International Aviation,610.9982846709678,movements,Modelled estimate,2026-10-13
+2022-05-01,International Aviation,610.9982846709678,movements,Modelled estimate,2026-10-13
+2022-06-01,International Aviation,672.0981131380646,movements,Modelled estimate,2026-10-13
+2022-07-01,International Aviation,684.3542600011766,movements,Modelled estimate,2026-10-13
+2022-08-01,International Aviation,684.3542600011766,movements,Modelled estimate,2026-10-13
+2022-09-01,International Aviation,746.5682836376473,movements,Modelled estimate,2026-10-13
+2022-10-01,International Aviation,759.9058648576744,movements,Modelled estimate,2026-10-13
+2022-11-01,International Aviation,818.3601621544186,movements,Modelled estimate,2026-10-13
+2022-12-01,International Aviation,935.2687567479068,movements,Modelled estimate,2026-10-13
+2023-01-01,International Aviation,875.29658832,movements,Modelled estimate,2026-10-13
+2023-02-01,International Aviation,875.29658832,movements,Modelled estimate,2026-10-13
+2023-03-01,International Aviation,1094.1207353999998,movements,Modelled estimate,2026-10-13
+2023-04-01,International Aviation,1148.4831758399998,movements,Modelled estimate,2026-10-13
+2023-05-01,International Aviation,1148.4831758399998,movements,Modelled estimate,2026-10-13
+2023-06-01,International Aviation,1148.4831758399998,movements,Modelled estimate,2026-10-13
+2023-07-01,International Aviation,1225.7216324778085,movements,Modelled estimate,2026-10-13
+2023-08-01,International Aviation,1276.7933671643834,movements,Modelled estimate,2026-10-13
+2023-09-01,International Aviation,1225.7216324778085,movements,Modelled estimate,2026-10-13
+2023-10-01,International Aviation,1336.4289984240004,movements,Modelled estimate,2026-10-13
+2023-11-01,International Aviation,1439.231229072,movements,Modelled estimate,2026-10-13
+2023-12-01,International Aviation,1542.0334597200003,movements,Modelled estimate,2026-10-13
+2024-01-01,International Aviation,1456.36346856,movements,Modelled estimate,2026-10-13
+2024-02-01,International Aviation,1406.1440386096554,movements,Modelled estimate,2026-10-13
+2024-03-01,International Aviation,1506.5828985103449,movements,Modelled estimate,2026-10-13
+2024-04-01,International Aviation,1427.2437149757304,movements,Modelled estimate,2026-10-13
+2024-05-01,International Aviation,1476.459015492135,movements,Modelled estimate,2026-10-13
+2024-06-01,International Aviation,1476.459015492135,movements,Modelled estimate,2026-10-13
+2024-07-01,International Aviation,1542.2216409599998,movements,Modelled estimate,2026-10-13
+2024-08-01,International Aviation,1591.9707261522583,movements,Modelled estimate,2026-10-13
+2024-09-01,International Aviation,1492.4725557677418,movements,Modelled estimate,2026-10-13
+2024-10-01,International Aviation,1650.5406955150518,movements,Modelled estimate,2026-10-13
+2024-11-01,International Aviation,1598.9612987802063,movements,Modelled estimate,2026-10-13
+2024-12-01,International Aviation,1753.6994889847426,movements,Modelled estimate,2026-10-13
+2025-01-01,International Aviation,1688.3456539950002,movements,Modelled estimate,2026-10-13
+2025-02-01,International Aviation,1440.0595284075,movements,Modelled estimate,2026-10-13
+2025-03-01,International Aviation,1638.6884288775,movements,Modelled estimate,2026-10-13
+2025-04-01,International Aviation,1661.80314675375,movements,Modelled estimate,2026-10-13
+2025-05-01,International Aviation,1611.44547564,movements,Modelled estimate,2026-10-13
+2025-06-01,International Aviation,1561.0878045262502,movements,Modelled estimate,2026-10-13
+2025-07-01,International Aviation,1686.70251568,movements,Modelled estimate,2026-10-13
+2025-08-01,International Aviation,1736.3114132000003,movements,Modelled estimate,2026-10-13
+2025-09-01,International Aviation,1488.2669256,movements,Modelled estimate,2026-10-13
+2025-10-01,International Aviation,1760.007511398058,movements,Modelled estimate,2026-10-13
+2025-11-01,International Aviation,1708.242584592233,movements,Modelled estimate,2026-10-13
+2025-12-01,International Aviation,1863.5373650097088,movements,Modelled estimate,2026-10-13
+2026-01-01,International Aviation,1661.9604857856,movements,Modelled estimate,2026-10-13
+2026-02-01,International Aviation,1564.1981042688,movements,Modelled estimate,2026-10-13
+2026-03-01,International Aviation,1661.9604857856,movements,Modelled estimate,2026-10-13
+2026-04-01,International Aviation,1663.1646359328004,movements,Modelled estimate,2026-10-13
+2026-05-01,International Aviation,1663.1646359328004,movements,Modelled estimate,2026-10-13
+2026-06-01,International Aviation,1565.3314220544,movements,Modelled estimate,2026-10-13
+2026-07-01,International Aviation,,movements,Modelled estimate,2026-10-13
+2026-08-01,International Aviation,,movements,Modelled estimate,2026-10-13
+2026-09-01,International Aviation,,movements,Modelled estimate,2026-10-13
+2026-10-01,International Aviation,,movements,Modelled estimate,2026-10-13
+2026-11-01,International Aviation,,movements,Modelled estimate,2026-10-13
+2026-12-01,International Aviation,,movements,Modelled estimate,2026-10-13
+2019-01-01,International Shipping,3109.8048935251054,all_arrivals,Modelled estimate,2026-10-13
+2019-02-01,International Shipping,2365.1177986811035,all_arrivals,Modelled estimate,2026-10-13
+2019-03-01,International Shipping,3035.125820454591,all_arrivals,Modelled estimate,2026-10-13
+2019-04-01,International Shipping,2632.560997222954,all_arrivals,Modelled estimate,2026-10-13
+2019-05-01,International Shipping,2698.499615472895,all_arrivals,Modelled estimate,2026-10-13
+2019-06-01,International Shipping,2590.774314727352,all_arrivals,Modelled estimate,2026-10-13
+2019-07-01,International Shipping,2343.65944071734,all_arrivals,Modelled estimate,2026-10-13
+2019-08-01,International Shipping,2326.385150159619,all_arrivals,Modelled estimate,2026-10-13
+2019-09-01,International Shipping,2196.571422107042,all_arrivals,Modelled estimate,2026-10-13
+2019-10-01,International Shipping,2500.8201238414795,all_arrivals,Modelled estimate,2026-10-13
+2019-11-01,International Shipping,2561.5616281856883,all_arrivals,Modelled estimate,2026-10-13
+2019-12-01,International Shipping,2667.318681056833,all_arrivals,Modelled estimate,2026-10-13
+2020-01-01,International Shipping,2901.2561041006925,all_arrivals,Modelled estimate,2026-10-13
+2020-02-01,International Shipping,1540.9018740853974,all_arrivals,Modelled estimate,2026-10-13
+2020-03-01,International Shipping,1917.430678611511,all_arrivals,Modelled estimate,2026-10-13
+2020-04-01,International Shipping,2063.618877485921,all_arrivals,Modelled estimate,2026-10-13
+2020-05-01,International Shipping,2185.257824342528,all_arrivals,Modelled estimate,2026-10-13
+2020-06-01,International Shipping,2095.5844611947505,all_arrivals,Modelled estimate,2026-10-13
+2020-07-01,International Shipping,2072.0404472737705,all_arrivals,Modelled estimate,2026-10-13
+2020-08-01,International Shipping,1585.656752917409,all_arrivals,Modelled estimate,2026-10-13
+2020-09-01,International Shipping,1661.9172272816209,all_arrivals,Modelled estimate,2026-10-13
+2020-10-01,International Shipping,1561.187719404565,all_arrivals,Modelled estimate,2026-10-13
+2020-11-01,International Shipping,1633.727220017903,all_arrivals,Modelled estimate,2026-10-13
+2020-12-01,International Shipping,1725.5929379479323,all_arrivals,Modelled estimate,2026-10-13
+2021-01-01,International Shipping,1782.501556923708,all_arrivals,Modelled estimate,2026-10-13
+2021-02-01,International Shipping,965.8189301189444,all_arrivals,Modelled estimate,2026-10-13
+2021-03-01,International Shipping,2028.117837780548,all_arrivals,Modelled estimate,2026-10-13
+2021-04-01,International Shipping,1579.2043407727454,all_arrivals,Modelled estimate,2026-10-13
+2021-05-01,International Shipping,1545.8214397885558,all_arrivals,Modelled estimate,2026-10-13
+2021-06-01,International Shipping,1401.8059495922992,all_arrivals,Modelled estimate,2026-10-13
+2021-07-01,International Shipping,1817.555629076492,all_arrivals,Modelled estimate,2026-10-13
+2021-08-01,International Shipping,1894.9706642772096,all_arrivals,Modelled estimate,2026-10-13
+2021-09-01,International Shipping,1811.104376143099,all_arrivals,Modelled estimate,2026-10-13
+2021-10-01,International Shipping,1711.5898154662725,all_arrivals,Modelled estimate,2026-10-13
+2021-11-01,International Shipping,1994.5688149022824,all_arrivals,Modelled estimate,2026-10-13
+2021-12-01,International Shipping,1975.4388570322456,all_arrivals,Modelled estimate,2026-10-13
+2022-01-01,International Shipping,1265.2608881242224,all_arrivals,Modelled estimate,2026-10-13
+2022-02-01,International Shipping,1220.1099275292152,all_arrivals,Modelled estimate,2026-10-13
+2022-03-01,International Shipping,1892.8937067769627,all_arrivals,Modelled estimate,2026-10-13
+2022-04-01,International Shipping,1392.4518712034553,all_arrivals,Modelled estimate,2026-10-13
+2022-05-01,International Shipping,1417.0567144773383,all_arrivals,Modelled estimate,2026-10-13
+2022-06-01,International Shipping,1397.919614153207,all_arrivals,Modelled estimate,2026-10-13
+2022-07-01,International Shipping,1525.8439535203013,all_arrivals,Modelled estimate,2026-10-13
+2022-08-01,International Shipping,1492.4852155511492,all_arrivals,Modelled estimate,2026-10-13
+2022-09-01,International Shipping,1567.8606845501492,all_arrivals,Modelled estimate,2026-10-13
+2022-10-01,International Shipping,1701.9679444475953,all_arrivals,Modelled estimate,2026-10-13
+2022-11-01,International Shipping,1769.6156327073834,all_arrivals,Modelled estimate,2026-10-13
+2022-12-01,International Shipping,1799.2489120778216,all_arrivals,Modelled estimate,2026-10-13
+2023-01-01,International Shipping,1286.8204217118832,all_arrivals,Modelled estimate,2026-10-13
+2023-02-01,International Shipping,1620.217037419182,all_arrivals,Modelled estimate,2026-10-13
+2023-03-01,International Shipping,1927.9677596105355,all_arrivals,Modelled estimate,2026-10-13
+2023-04-01,International Shipping,1528.7456094506772,all_arrivals,Modelled estimate,2026-10-13
+2023-05-01,International Shipping,1559.2885812769966,all_arrivals,Modelled estimate,2026-10-13
+2023-06-01,International Shipping,1551.7027451371266,all_arrivals,Modelled estimate,2026-10-13
+2023-07-01,International Shipping,1527.9369368810603,all_arrivals,Modelled estimate,2026-10-13
+2023-08-01,International Shipping,1652.3238619461688,all_arrivals,Modelled estimate,2026-10-13
+2023-09-01,International Shipping,1474.7100164927706,all_arrivals,Modelled estimate,2026-10-13
+2023-10-01,International Shipping,1650.3632618641152,all_arrivals,Modelled estimate,2026-10-13
+2023-11-01,International Shipping,1769.5862709303285,all_arrivals,Modelled estimate,2026-10-13
+2023-12-01,International Shipping,1858.795095895956,all_arrivals,Modelled estimate,2026-10-13
+2024-01-01,International Shipping,1865.5756763939023,all_arrivals,Modelled estimate,2026-10-13
+2024-02-01,International Shipping,1500.413717273941,all_arrivals,Modelled estimate,2026-10-13
+2024-03-01,International Shipping,1869.851577554558,all_arrivals,Modelled estimate,2026-10-13
+2024-04-01,International Shipping,1573.2102296000971,all_arrivals,Modelled estimate,2026-10-13
+2024-05-01,International Shipping,1649.5905902642075,all_arrivals,Modelled estimate,2026-10-13
+2024-06-01,International Shipping,1546.749220131695,all_arrivals,Modelled estimate,2026-10-13
+2024-07-01,International Shipping,1803.9739808927536,all_arrivals,Modelled estimate,2026-10-13
+2024-08-01,International Shipping,1801.0700328954558,all_arrivals,Modelled estimate,2026-10-13
+2024-09-01,International Shipping,1627.6628524853902,all_arrivals,Modelled estimate,2026-10-13
+2024-10-01,International Shipping,1923.9836699447685,all_arrivals,Modelled estimate,2026-10-13
+2024-11-01,International Shipping,1868.8648674264723,all_arrivals,Modelled estimate,2026-10-13
+2024-12-01,International Shipping,1934.332506335959,all_arrivals,Modelled estimate,2026-10-13
+2025-01-01,International Shipping,1804.736550863202,all_arrivals,Modelled estimate,2026-10-13
+2025-02-01,International Shipping,1627.5210198257691,all_arrivals,Modelled estimate,2026-10-13
+2025-03-01,International Shipping,1918.5507490574291,all_arrivals,Modelled estimate,2026-10-13
+2025-04-01,International Shipping,1754.0010641264578,all_arrivals,Modelled estimate,2026-10-13
+2025-05-01,International Shipping,1786.9555228230563,all_arrivals,Modelled estimate,2026-10-13
+2025-06-01,International Shipping,1606.9417921928866,all_arrivals,Modelled estimate,2026-10-13
+2025-07-01,International Shipping,1922.2317352630828,all_arrivals,Modelled estimate,2026-10-13
+2025-08-01,International Shipping,1987.7571003654016,all_arrivals,Modelled estimate,2026-10-13
+2025-09-01,International Shipping,1612.896442765916,all_arrivals,Modelled estimate,2026-10-13
+2025-10-01,International Shipping,1975.014699716913,all_arrivals,Modelled estimate,2026-10-13
+2025-11-01,International Shipping,2002.1453417139965,all_arrivals,Modelled estimate,2026-10-13
+2025-12-01,International Shipping,2148.36269548589,all_arrivals,Modelled estimate,2026-10-13
+2026-01-01,International Shipping,1950.2904393639683,all_arrivals,Modelled estimate,2026-10-13
+2026-02-01,International Shipping,1550.047501418941,all_arrivals,Modelled estimate,2026-10-13
+2026-03-01,International Shipping,1899.1494900650912,all_arrivals,Modelled estimate,2026-10-13
+2026-04-01,International Shipping,1473.0378867217046,all_arrivals,Modelled estimate,2026-10-13
+2026-05-01,International Shipping,1451.4344925225926,all_arrivals,Modelled estimate,2026-10-13
+2026-06-01,International Shipping,1400.5619836021035,all_arrivals,Modelled estimate,2026-10-13
+2026-07-01,International Shipping,,all_arrivals,Modelled estimate,2026-10-13
+2026-08-01,International Shipping,,all_arrivals,Modelled estimate,2026-10-13
+2026-09-01,International Shipping,,all_arrivals,Modelled estimate,2026-10-13
+2026-10-01,International Shipping,,all_arrivals,Modelled estimate,2026-10-13
+2026-11-01,International Shipping,,all_arrivals,Modelled estimate,2026-10-13
+2026-12-01,International Shipping,,all_arrivals,Modelled estimate,2026-10-13

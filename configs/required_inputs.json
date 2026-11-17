@@ -1,0 +1,359 @@
+{
+  "scope": "Core prepare, benchmarks, estimates and uncertainty, with the current 2005-2026 configuration.",
+  "inputs": [
+    {
+      "path": "data/raw/airport_2005.pdf",
+      "acquisition": "cmhk fetch --only airport_2005.pdf"
+    },
+    {
+      "path": "data/raw/airport_2006.pdf",
+      "acquisition": "cmhk fetch --only airport_2006.pdf"
+    },
+    {
+      "path": "data/raw/airport_2007.pdf",
+      "acquisition": "cmhk fetch --only airport_2007.pdf"
+    },
+    {
+      "path": "data/raw/airport_2008.pdf",
+      "acquisition": "cmhk fetch --only airport_2008.pdf"
+    },
+    {
+      "path": "data/raw/airport_2009.pdf",
+      "acquisition": "cmhk fetch --only airport_2009.pdf"
+    },
+    {
+      "path": "data/raw/airport_2010.pdf",
+      "acquisition": "cmhk fetch --only airport_2010.pdf"
+    },
+    {
+      "path": "data/raw/airport_2011.pdf",
+      "acquisition": "cmhk fetch --only airport_2011.pdf"
+    },
+    {
+      "path": "data/raw/airport_2012.pdf",
+      "acquisition": "cmhk fetch --only airport_2012.pdf"
+    },
+    {
+      "path": "data/raw/airport_2013.pdf",
+      "acquisition": "cmhk fetch --only airport_2013.pdf"
+    },
+    {
+      "path": "data/raw/airport_2014.pdf",
+      "acquisition": "cmhk fetch --only airport_2014.pdf"
+    },
+    {
+      "path": "data/raw/airport_2015.pdf",
+      "acquisition": "cmhk fetch --only airport_2015.pdf"
+    },
+    {
+      "path": "data/raw/airport_2016.pdf",
+      "acquisition": "cmhk fetch --only airport_2016.pdf"
+    },
+    {
+      "path": "data/raw/airport_2017.pdf",
+      "acquisition": "cmhk fetch --only airport_2017.pdf"
+    },
+    {
+      "path": "data/raw/airport_2018.pdf",
+      "acquisition": "cmhk fetch --only airport_2018.pdf"
+    },
+    {
+      "path": "data/raw/airport_2019.pdf",
+      "acquisition": "cmhk fetch --only airport_2019.pdf"
+    },
+    {
+      "path": "data/raw/airport_2020.pdf",
+      "acquisition": "cmhk fetch --only airport_2020.pdf"
+    },
+    {
+      "path": "data/raw/airport_2021.pdf",
+      "acquisition": "cmhk fetch --only airport_2021.pdf"
+    },
+    {
+      "path": "data/raw/airport_2022.pdf",
+      "acquisition": "cmhk fetch --only airport_2022.pdf"
+    },
+    {
+      "path": "data/raw/airport_2023.pdf",
+      "acquisition": "cmhk fetch --only airport_2023.pdf"
+    },
+    {
+      "path": "data/raw/airport_2024.pdf",
+      "acquisition": "cmhk fetch --only airport_2024.pdf"
+    },
+    {
+      "path": "data/raw/airport_2025.pdf",
+      "acquisition": "cmhk fetch --only airport_2025.pdf"
+    },
+    {
+      "path": "data/raw/airport_2026.pdf",
+      "acquisition": "cmhk fetch --only airport_2026.pdf"
+    },
+    {
+      "path": "data/raw/csd_610-65001.json",
+      "acquisition": "cmhk fetch --only csd_610-65001.json"
+    },
+    {
+      "path": "data/raw/csd_915-91001.json",
+      "acquisition": "cmhk fetch --only csd_915-91001.json"
+    },
+    {
+      "path": "data/raw/csd_915-91106.json",
+      "acquisition": "cmhk fetch --only csd_915-91106.json"
+    },
+    {
+      "path": "data/raw/csd_915-91201.json",
+      "acquisition": "cmhk fetch --only csd_915-91201.json"
+    },
+    {
+      "path": "data/raw/csd_915-91203.json",
+      "acquisition": "cmhk fetch --only csd_915-91203.json"
+    },
+    {
+      "path": "data/raw/csd_energy_2009.pdf",
+      "acquisition": "cmhk fetch --only csd_energy_2009.pdf"
+    },
+    {
+      "path": "data/raw/csd_energy_2010.pdf",
+      "acquisition": "cmhk fetch --only csd_energy_2010.pdf"
+    },
+    {
+      "path": "data/raw/csd_energy_2011.pdf",
+      "acquisition": "cmhk fetch --only csd_energy_2011.pdf"
+    },
+    {
+      "path": "data/raw/csd_energy_2012.pdf",
+      "acquisition": "cmhk fetch --only csd_energy_2012.pdf"
+    },
+    {
+      "path": "data/raw/csd_energy_2013.pdf",
+      "acquisition": "cmhk fetch --only csd_energy_2013.pdf"
+    },
+    {
+      "path": "data/raw/emsd_2017_45.csv",
+      "acquisition": "cmhk fetch --only emsd_2017_45.csv"
+    },
+    {
+      "path": "data/raw/emsd_2017_46.csv",
+      "acquisition": "cmhk fetch --only emsd_2017_46.csv"
+    },
+    {
+      "path": "data/raw/emsd_2017_48.csv",
+      "acquisition": "cmhk fetch --only emsd_2017_48.csv"
+    },
+    {
+      "path": "data/raw/emsd_2017_49.csv",
+      "acquisition": "cmhk fetch --only emsd_2017_49.csv"
+    },
+    {
+      "path": "data/raw/emsd_2017_50.csv",
+      "acquisition": "cmhk fetch --only emsd_2017_50.csv"
+    },
+    {
+      "path": "data/raw/emsd_2017_51.csv",
+      "acquisition": "cmhk fetch --only emsd_2017_51.csv"
+    },
+    {
+      "path": "data/raw/emsd_2020_03.csv",
+      "acquisition": "cmhk fetch --only emsd_2020_03.csv"
+    },
+    {
+      "path": "data/raw/emsd_2020_04.csv",
+      "acquisition": "cmhk fetch --only emsd_2020_04.csv"
+    },
+    {
+      "path": "data/raw/emsd_2020_05.csv",
+      "acquisition": "cmhk fetch --only emsd_2020_05.csv"
+    },
+    {
+      "path": "data/raw/emsd_2020_06.csv",
+      "acquisition": "cmhk fetch --only emsd_2020_06.csv"
+    },
+    {
+      "path": "data/raw/emsd_2020_58.csv",
+      "acquisition": "cmhk fetch --only emsd_2020_58.csv"
+    },
+    {
+      "path": "data/raw/emsd_2020_59.csv",
+      "acquisition": "cmhk fetch --only emsd_2020_59.csv"
+    },
+    {
+      "path": "data/raw/emsd_2024_05.csv",
+      "acquisition": "cmhk fetch --only emsd_2024_05.csv"
+    },
+    {
+      "path": "data/raw/emsd_2025_03.csv",
+      "acquisition": "cmhk fetch --only emsd_2025_03.csv"
+    },
+    {
+      "path": "data/raw/emsd_2025_04.csv",
+      "acquisition": "cmhk fetch --only emsd_2025_04.csv"
+    },
+    {
+      "path": "data/raw/emsd_2025_05.csv",
+      "acquisition": "cmhk fetch --only emsd_2025_05.csv"
+    },
+    {
+      "path": "data/raw/emsd_2025_06.csv",
+      "acquisition": "cmhk fetch --only emsd_2025_06.csv"
+    },
+    {
+      "path": "data/raw/emsd_2025_58.csv",
+      "acquisition": "cmhk fetch --only emsd_2025_58.csv"
+    },
+    {
+      "path": "data/raw/emsd_2025_59.csv",
+      "acquisition": "cmhk fetch --only emsd_2025_59.csv"
+    },
+    {
+      "path": "data/raw/emsd_2026_03.csv",
+      "acquisition": "cmhk fetch --only emsd_2026_03.csv"
+    },
+    {
+      "path": "data/raw/emsd_2026_04.csv",
+      "acquisition": "cmhk fetch --only emsd_2026_04.csv"
+    },
+    {
+      "path": "data/raw/emsd_2026_05.csv",
+      "acquisition": "cmhk fetch --only emsd_2026_05.csv"
+    },
+    {
+      "path": "data/raw/emsd_2026_06.csv",
+      "acquisition": "cmhk fetch --only emsd_2026_06.csv"
+    },
+    {
+      "path": "data/raw/emsd_2026_58.csv",
+      "acquisition": "cmhk fetch --only emsd_2026_58.csv"
+    },
+    {
+      "path": "data/raw/emsd_2026_59.csv",
+      "acquisition": "cmhk fetch --only emsd_2026_59.csv"
+    },
+    {
+      "path": "data/raw/inventory/China_BTR1_CRT_2024-12-31_HKSAR/CHN-CRT-2024-V0.5-2005-20241231-154423_started.xlsx",
+      "acquisition": "Restore versioned input bundle; see docs/acquisition.md",
+      "sha256": "1760fe4c99334c0e88d8e036defe8c20c253734ef293dd7f2d6678b3c3bf2282"
+    },
+    {
+      "path": "data/raw/inventory/China_BTR1_CRT_2024-12-31_HKSAR/CHN-CRT-2024-V0.5-2020-20241231-154423_started.xlsx",
+      "acquisition": "Restore versioned input bundle; see docs/acquisition.md",
+      "sha256": "179ed3e3857a1059e3b89ff5389dcdece21cacd93383e35415a691c84c5e449e"
+    },
+    {
+      "path": "data/raw/inventory/China_BTR1_CRT_2024-12-31_HKSAR/CHN-CRT-2024-V0.5-2021-20241231-154423_started.xlsx",
+      "acquisition": "Restore versioned input bundle; see docs/acquisition.md",
+      "sha256": "3f8507cc6e65b651956228a63f25a616a045eb05266b922aff52982834478aba"
+    },
+    {
+      "path": "data/raw/ipcc_energy_intro.pdf",
+      "acquisition": "cmhk fetch --only ipcc_energy_intro.pdf"
+    },
+    {
+      "path": "data/raw/ipcc_uncertainties_2006.pdf",
+      "acquisition": "cmhk fetch --only ipcc_uncertainties_2006.pdf"
+    },
+    {
+      "path": "data/raw/legacy/HK.xlsx",
+      "acquisition": "Restore versioned input bundle; see docs/acquisition.md",
+      "sha256": "d53d65e06d0d0a3396d87ffd06284b6bd2a9f80afe457bed42b808af486980a6"
+    },
+    {
+      "path": "data/raw/marine_1_m_a1.pdf",
+      "acquisition": "cmhk fetch --only marine_1_m_a1.pdf"
+    },
+    {
+      "path": "data/raw/marine_2_m_a1.pdf",
+      "acquisition": "cmhk fetch --only marine_2_m_a1.pdf"
+    },
+    {
+      "path": "data/raw/official_ghg_sector_2024.pdf",
+      "acquisition": "cmhk fetch --only official_ghg_sector_2024.pdf"
+    },
+    {
+      "path": "data/raw/power/HK_power_generation_2010_2025.xlsx",
+      "acquisition": "Restore versioned input bundle; see docs/acquisition.md",
+      "sha256": "0c7cd7f6cf69008c7bcec7cc101136258538c10ee9f468e4de1e89fc4006a661"
+    },
+    {
+      "path": "data/raw/td_21.csv",
+      "acquisition": "cmhk fetch --only td_21.csv"
+    },
+    {
+      "path": "data/raw/td_31a.csv",
+      "acquisition": "cmhk fetch --only td_31a.csv"
+    },
+    {
+      "path": "data/raw/td_31b.csv",
+      "acquisition": "cmhk fetch --only td_31b.csv"
+    },
+    {
+      "path": "data/raw/td_31c.csv",
+      "acquisition": "cmhk fetch --only td_31c.csv"
+    },
+    {
+      "path": "data/raw/td_44.csv",
+      "acquisition": "cmhk fetch --only td_44.csv"
+    },
+    {
+      "path": "data/raw/td_dictionary.pdf",
+      "acquisition": "cmhk fetch --only td_dictionary.pdf"
+    },
+    {
+      "path": "data/raw/temperature_2019.csv",
+      "acquisition": "cmhk fetch --only temperature_2019.csv"
+    },
+    {
+      "path": "data/raw/temperature_2020.csv",
+      "acquisition": "cmhk fetch --only temperature_2020.csv"
+    },
+    {
+      "path": "data/raw/temperature_2021.csv",
+      "acquisition": "cmhk fetch --only temperature_2021.csv"
+    },
+    {
+      "path": "data/raw/temperature_2022.csv",
+      "acquisition": "cmhk fetch --only temperature_2022.csv"
+    },
+    {
+      "path": "data/raw/temperature_2023.csv",
+      "acquisition": "cmhk fetch --only temperature_2023.csv"
+    },
+    {
+      "path": "data/raw/temperature_2024.csv",
+      "acquisition": "cmhk fetch --only temperature_2024.csv"
+    },
+    {
+      "path": "data/raw/temperature_2025.csv",
+      "acquisition": "cmhk fetch --only temperature_2025.csv"
+    },
+    {
+      "path": "data/raw/temperature_2026.csv",
+      "acquisition": "cmhk fetch --only temperature_2026.csv"
+    },
+    {
+      "path": "data/raw/traffic_census_2014.pdf",
+      "acquisition": "cmhk fetch --only traffic_census_2014.pdf"
+    },
+    {
+      "path": "data/raw/traffic_census_2016.pdf",
+      "acquisition": "cmhk fetch --only traffic_census_2016.pdf"
+    },
+    {
+      "path": "data/raw/traffic_census_2018.pdf",
+      "acquisition": "cmhk fetch --only traffic_census_2018.pdf"
+    },
+    {
+      "path": "data/raw/traffic_census_2020.pdf",
+      "acquisition": "cmhk fetch --only traffic_census_2020.pdf"
+    },
+    {
+      "path": "data/raw/traffic_census_2022.pdf",
+      "acquisition": "cmhk fetch --only traffic_census_2022.pdf"
+    },
+    {
+      "path": "data/raw/traffic_census_2024.pdf",
+      "acquisition": "cmhk fetch --only traffic_census_2024.pdf"
+    }
+  ],
+  "verification": "Required files verified by tracing raw input reads in the independent cached-input pipeline on 2026-11-17."
+}

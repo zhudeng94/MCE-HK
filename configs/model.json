@@ -1,0 +1,144 @@
+{
+  "start_year": 2005,
+  "end_year": 2026,
+  "as_of": "2026-11-16",
+  "town_gas_kg_co2_per_48_mj": 2.549,
+  "lpg_ncv_gcv_ratio": 0.94,
+  "natural_gas_ncv_gcv_ratio": 0.9,
+  "ipcc_t_co2_per_tj_ncv": {
+    "petrol": 69.3,
+    "diesel": 74.1,
+    "fuel_oil": 77.4,
+    "jet_kerosene": 71.5,
+    "lpg": 63.1,
+    "natural_gas": 56.1,
+    "coal": 94.6
+  },
+  "ipcc_ncv_gj_per_tonne": {
+    "petrol": 44.3,
+    "diesel": 43.0,
+    "fuel_oil": 40.4,
+    "jet_kerosene": 44.1,
+    "lpg": 47.3
+  },
+  "assumed_density_tonne_per_kl": {
+    "petrol": 0.74,
+    "diesel": 0.84,
+    "fuel_oil": 0.98,
+    "jet_kerosene": 0.8
+  },
+  "power_assumed_efficiency": {
+    "gas": 0.5,
+    "coal": 0.38
+  },
+  "power_liquid_share_of_pooled_oil_gas_heat": [
+    0.0,
+    0.05
+  ],
+  "power_gas_responsiveness": [
+    0.0,
+    2.0
+  ],
+  "road_assumed_litres_per_km": {
+    "1": 0.08,
+    "2": 0.035,
+    "3": 0.12,
+    "5": 0.25,
+    "15": 0.2,
+    "16": 0.4
+  },
+  "road_ev_relative_mileage": [
+    0.7,
+    1.0,
+    1.3
+  ],
+  "notes": [
+    "Only CO2 combustion emissions, not all greenhouse gases. Transport now represents full 1.A.3 via the road/domestic-marine proxy. Town-gas manufacture and industrial processes remain outside covered sectors.",
+    "Emission factors: EPD 2010 buildings guidelines Table 1-1 (town gas); IPCC 2006 Volume 2 Chapter 1 Tables 1.2 and 1.4 (NCVs and CO2 factors).",
+    "Town gas uses observed gross heat: 2.549 kg CO2 per 48 MJ. Do not add the supplier production emission factor.",
+    "Fuel densities, LPG NCV/GCV ratio, power efficiencies, pooled oil/gas split, vehicle fuel intensities and EV mileage ratios are explicit unvalidated model assumptions. Scenario min/max is not a confidence interval.",
+    "Recent non-gas fuel emissions may be extrapolated from the last complete annual fuel benchmark using monthly activity; marked Modelled, never Measured or Benchmark-constrained.",
+    "No future months are filled. 2026 results are partial-year only."
+  ],
+  "factor_sources": [
+    "https://www.epd.gov.hk/epd/sites/default/files/epd/english/climate_change/files/Guidelines_English_2010.pdf",
+    "https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_1_Ch1_Introduction.pdf",
+    "https://www.towngas.com/en/Household/Customer-Services/Tariff"
+  ],
+  "point_estimate_sector_methods": {
+    "Power": "liquid_0_response_0",
+    "Residential": "gas_profile_trace_0",
+    "Commercial": "gas_profile",
+    "International Aviation": "movements",
+    "International Shipping": "validated_shipping_proxy",
+    "Road Transport": "crt2021_road_plus_other_transport",
+    "Domestic Navigation": "crt2021_navigation_ferry_days"
+  },
+  "historical_industry_calibration": "2021 CRT only; annual EMSD non-electric fuel energy ratio; 2005 and 2020 held out for validation",
+  "transport_proxy": {
+    "baseline_year": 2021,
+    "road_method": "ev_mileage_1",
+    "monthly_method": "ferry_passengers_freight_days",
+    "passenger_marine": "TD table 2.1 Ferries passenger journeys; calendar days before 2013",
+    "freight_marine": "calendar days",
+    "residual_transport": "follow road activity only; assigned entirely to Road Transport",
+    "outside_annual_marine_coverage": "after 2024: passenger energy per ferry passenger; freight energy per day; before 2008: missing",
+    "scope": "IPCC 1.A.3 direct combustion CO2; excludes international bunker fuels and rail electricity",
+    "extrapolation_reference_year": 2024,
+    "published_scope": "Road Transport = 1.A.3.b plus residual 1.A.3.a/c/e; Domestic Navigation = 1.A.3.d; sum preserves full 1.A.3",
+    "early_road_residual": "All years: road plus residual follows calibrated road index independently of navigation"
+  },
+  "official_baseline": {
+    "year": 2021,
+    "method": "official_CO2_times_relative_activity",
+    "rescale_sectors": [
+      "Power",
+      "Residential",
+      "Commercial",
+      "International Aviation",
+      "International Shipping"
+    ],
+    "existing_calibrated_sectors": [
+      "Industry",
+      "Road Transport",
+      "Domestic Navigation"
+    ],
+    "history": "All sectors use 2021 CRT baseline; 2005 and 2020 are validation years",
+    "scope_assumption": "Statistical activity and supplied-fuel boundaries proxy the matching CRT category; calibration does not resolve changes in boundary or fuel intensity",
+    "release": "official baseline with quarterly-activity nowcasts and validated power intensity scenarios"
+  },
+  "near_realtime": {
+    "enabled": true,
+    "selection_start_year": 2017,
+    "selection_end_year": 2022,
+    "evaluation_start_year": 2023,
+    "evaluation_end_year": 2025,
+    "ratio_windows": [
+      4,
+      8
+    ],
+    "max_forward_months": 6,
+    "power_trend_damping": 0.5,
+    "power_max_annual_change": 0.1,
+    "company_proxy_gas_tCO2_per_MWh": 0.4,
+    "company_proxy_coal_tCO2_per_MWh": 0.9,
+    "company_update_note": "Fuel-class sent-out mix proxy, HKE coal includes oil; coefficients are sensitivity assumptions, not measured plant emission factors",
+    "backtest_note": "Pseudo out-of-sample on revised cached data, prior periods only; source release vintages unavailable"
+  },
+  "industry": {
+    "method": "annual_non_electric_fuel_ratio",
+    "baseline_year": 2021,
+    "annual_sources": {
+      "2017": 50,
+      "2020": 5,
+      "2024": 5,
+      "2025": 5,
+      "2026": 5
+    },
+    "monthly_profiles": {
+      "gas_lpg_TJ": "GASC_LOCAL",
+      "oil_coal_TJ": "ELEC_LOCAL"
+    },
+    "extrapolation": "hold latest annual fuel / monthly activity annual sum ratio"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "baseline_year": 2021,
+  "validation_years": [
+    2005,
+    2020
+  ],
+  "categories": [
+    {
+      "sector": "Power",
+      "category": "1.A.1.a",
+      "sheet": "Table1.A(a)s1",
+      "row_prefix": "1.A.1.a. Public electricity",
+      "column_index": 7,
+      "unit": "ktCO2",
+      "published": true,
+      "formula_module": "cmhk.sectors.power:power",
+      "operation": "read_cell"
+    },
+    {
+      "sector": "Industry",
+      "category": "1.A.2",
+      "sheet": "Table1.A(a)s2",
+      "row_prefix": "1.A.2 Manufacturing",
+      "column_index": 7,
+      "unit": "ktCO2",
+      "published": true,
+      "formula_module": "cmhk.sectors.industry:industrial_estimate",
+      "operation": "read_cell"
+    },
+    {
+      "sector": "Road Transport",
+      "category": "1.A.3 minus 1.A.3.d",
+      "sheet": "Table1.A(a)s3",
+      "row_prefix": "1.A.3.b.  Road transportation",
+      "column_index": 7,
+      "unit": "ktCO2",
+      "published": true,
+      "formula_module": "cmhk.sectors.road:road",
+      "operation": "transport_minus_navigation"
+    },
+    {
+      "sector": "Domestic Navigation",
+      "category": "1.A.3.d",
+      "sheet": "Table1.A(a)s3",
+      "row_prefix": "1.A.3.d.",
+      "column_index": 7,
+      "unit": "ktCO2",
+      "published": true,
+      "formula_module": "cmhk.sectors.navigation:disaggregate",
+      "operation": "read_cell"
+    },
+    {
+      "sector": "Transport",
+      "category": "1.A.3",
+      "sheet": "Table1.A(a)s3",
+      "row_prefix": "1.A.3  Transport",
+      "column_index": 7,
+      "unit": "ktCO2",
+      "published": false,
+      "formula_module": "diagnostic only",
+      "operation": "read_cell"
+    },
+    {
+      "sector": "Road",
+      "category": "1.A.3.b",
+      "sheet": "Table1.A(a)s3",
+      "row_prefix": "1.A.3.b.  Road transportation",
+      "column_index": 7,
+      "unit": "ktCO2",
+      "published": false,
+      "formula_module": "diagnostic only",
+      "operation": "read_cell"
+    },
+    {
+      "sector": "Commercial",
+      "category": "1.A.4.a",
+      "sheet": "Table1.A(a)s4",
+      "row_prefix": "1.A.4.a.  Commercial/institutional",
+      "column_index": 7,
+      "unit": "ktCO2",
+      "published": true,
+      "formula_module": "cmhk.sectors.buildings:stationary",
+      "operation": "read_cell"
+    },
+    {
+      "sector": "Residential",
+      "category": "1.A.4.b",
+      "sheet": "Table1.A(a)s4",
+      "row_prefix": "1.A.4.b.  Residential",
+      "column_index": 7,
+      "unit": "ktCO2",
+      "published": true,
+      "formula_module": "cmhk.sectors.buildings:stationary",
+      "operation": "read_cell"
+    },
+    {
+      "sector": "International Aviation",
+      "category": "1.D.1.a",
+      "sheet": "Table1.D",
+      "row_prefix": "1.D.1.a. International aviation",
+      "column_index": 6,
+      "unit": "ktCO2",
+      "published": true,
+      "formula_module": "cmhk.sectors.bunkers:bunkers",
+      "operation": "read_cell"
+    },
+    {
+      "sector": "International Shipping",
+      "category": "1.D.1.b",
+      "sheet": "Table1.D",
+      "row_prefix": "1.D.1.b. International navigation",
+      "column_index": 6,
+      "unit": "ktCO2",
+      "published": true,
+      "formula_module": "cmhk.sectors.bunkers:bunkers",
+      "operation": "read_cell"
+    }
+  ],
+  "scopes": {
+    "covered_local_sectors": [
+      "Power",
+      "Industry",
+      "Road Transport",
+      "Domestic Navigation",
+      "Residential",
+      "Commercial"
+    ],
+    "covered_sectors_plus_international_bunkers": [
+      "Power",
+      "Industry",
+      "Road Transport",
+      "Domestic Navigation",
+      "Residential",
+      "Commercial",
+      "International Aviation",
+      "International Shipping"
+    ]
+  }
+}

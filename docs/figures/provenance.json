@@ -1,0 +1,20 @@
+{
+  "numbering": "Figure numbering follows the latest revised manuscript, not the archived v11 figure bundle.",
+  "manuscript": "local/archive/manuscript/zhu_intro_v1/CM-HK_v2_zhu_introduction_revised.docx",
+  "manuscript_sha256": "f7698e6540aa5ab777e81efcbc9986b72648f5ac1203bf5e7b306f552a9f4c53",
+  "figures": [
+    {
+      "file": "figure-1.png",
+      "caption": "Figure 1. Accounting framework of MCE-HK.",
+      "source": "word/media/image1.png in the revised manuscript",
+      "sha256": "115b63d3e8c9ddef92d7e663ecdc8d2635843328acef2b7814464c7e1fd82c9b"
+    },
+    {
+      "file": "figure-2.png",
+      "caption": "Figure 2. Monthly CO2 emissions in Hong Kong, 2008-2026.",
+      "source": "local/archive/manuscript/v11/figures/Figure_1.png",
+      "note": "The archived v11 Figure_1 is numbered Figure 2 in the revised manuscript. Original full-resolution PNG preserved.",
+      "sha256": "82dffb9b2a8ab0cf1b25a9ba1b28f6827b8d835a77fa410dfb164d32fe0b97da"
+    }
+  ]
+}

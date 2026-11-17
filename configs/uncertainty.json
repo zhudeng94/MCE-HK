@@ -1,0 +1,85 @@
+{
+  "method": "Monte Carlo model-based central 95% uncertainty interval",
+  "draws": 100000,
+  "seed": 20261014,
+  "coverage_probability": 0.95,
+  "scenario_weighting": "Industry: annual non-electric fuel with shared 2021 baseline; other sectors: equal probability per named structural path",
+  "activity_95_pct": 5.0,
+  "activity_basis": "Input activity errors: assumed 95% bounds 0.95/1.05 per sector-year; newly calibrated sectors use target/base-year ratios, with independent errors between years and a shared base-year error. Base-year activity error cancels. Proxy application and independence are analyst assumptions.",
+  "town_gas_factor_95_pct": 5.0,
+  "town_gas_factor_basis": "Analyst assumption: local factor uncertainty unavailable; not an EPD reported confidence interval",
+  "crt_calibration_95_pct": {
+    "Industry": 10.0,
+    "Power": 10.0,
+    "Residential": 10.0,
+    "Commercial": 10.0,
+    "International Aviation": 10.0,
+    "International Shipping": 10.0,
+    "Road Transport": 10.0,
+    "Domestic Navigation": 10.0
+  },
+  "crt_calibration_basis": "One 2021 baseline multiplier per sector, shared across time; assumed 95% bounds \u00b110%",
+  "extrapolation_annual_drift_95_pct": 5.0,
+  "extrapolation_basis": "Analyst assumption: independent yearly log-scale increments beyond the last benchmark, cumulative random walk",
+  "extrapolation_last_benchmark": {
+    "Power": 2025,
+    "Industry": 2024,
+    "Residential": 2024,
+    "Commercial": 2024,
+    "Road Transport": 2024,
+    "Domestic Navigation": 2024
+  },
+  "factor_95_bounds_tCO2_per_TJ": {
+    "petrol": [
+      67.5,
+      73.0
+    ],
+    "diesel": [
+      72.6,
+      74.8
+    ],
+    "fuel_oil": [
+      75.5,
+      78.8
+    ],
+    "jet_kerosene": [
+      69.7,
+      74.4
+    ],
+    "lpg": [
+      61.6,
+      65.6
+    ],
+    "natural_gas": [
+      54.3,
+      58.3
+    ],
+    "coal": [
+      89.5,
+      99.7
+    ]
+  },
+  "factor_basis": "IPCC 2006 Volume 2 Chapter 1 Table 1.4. Coal treated as Other Bituminous Coal (fuel-type assumption). Lognormal fitted to the stated 2.5/97.5 percentiles; central factor need not be fitted median. Newly calibrated sectors apply the same fuel draw to numerator and baseline denominator; single-fuel constant factors cancel.",
+  "correlations": "One draw per fuel EF shared across years/sectors. Structural choices shared across time for non-Industry sectors. Industry: one shared 2021 coefficient; target/base-year activity errors. Activity draws shared within sector-year. Transport CRT scale shared across time. Annual drift cumulative. Other input families independent by assumption; separate seeded streams for each sector. For Power, Residential, Commercial and international bunkers: every structural path is separately calibrated; fuel-factor errors normalized by its 2021 denominator and sector-year activity errors divided by shared 2021 activity error. Official baseline multiplier shared through time, independent across sectors by assumption.",
+  "held_fixed": [
+    "fuel densities",
+    "NCV/GCV conversions and NCVs",
+    "power generation efficiency",
+    "unrepresented scope and missing-source errors",
+    "monthly allocation errors beyond the chosen structural paths",
+    "industrial aggregate CO2 per non-electric fuel TJ and within-year allocation"
+  ],
+  "convergence_max_endpoint_change_pct_of_point": 1.0,
+  "sources": {
+    "ipcc_uncertainty": "https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/1_Volume1/V1_3_Ch3_Uncertainties.pdf",
+    "ipcc_energy": "https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_1_Ch1_Introduction.pdf"
+  },
+  "industry_uncertainty": {
+    "method": "annual_fuel_shared_2021_baseline",
+    "anchor_years": [
+      2021
+    ],
+    "monthly_allocation": "gas and electricity profiles allocate annual non-electric fuel groups",
+    "after_last_benchmark": "fuel/activity ratios from 2024; cumulative annual drift"
+  }
+}
