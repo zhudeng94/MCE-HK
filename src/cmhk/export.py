@@ -45,4 +45,6 @@ def main():
         'Rebuild with python scripts/export_publication_data.py after regenerating model outputs.',
         'The old four-product package is retained only in legacy_v6/ and is not part of this publication product.','']
     (DEST/'README.md').write_text('\n'.join(lines));print(coverage.to_string());print(f'{len(data)} records; 5 fields; common period {common.min()}–{common.max()}')
+    from cmhk.results import publish
+    publish(ROOT)
 if __name__=='__main__':main()

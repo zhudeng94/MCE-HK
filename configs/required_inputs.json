@@ -231,17 +231,17 @@
     },
     {
       "path": "data/raw/inventory/China_BTR1_CRT_2024-12-31_HKSAR/CHN-CRT-2024-V0.5-2005-20241231-154423_started.xlsx",
-      "acquisition": "Restore versioned input bundle; see docs/acquisition.md",
+      "acquisition": "Provide the Hong Kong CRT workbook from the China BTR1 CRT 2024 submission, retaining its original filename.",
       "sha256": "1760fe4c99334c0e88d8e036defe8c20c253734ef293dd7f2d6678b3c3bf2282"
     },
     {
       "path": "data/raw/inventory/China_BTR1_CRT_2024-12-31_HKSAR/CHN-CRT-2024-V0.5-2020-20241231-154423_started.xlsx",
-      "acquisition": "Restore versioned input bundle; see docs/acquisition.md",
+      "acquisition": "Provide the Hong Kong CRT workbook from the China BTR1 CRT 2024 submission, retaining its original filename.",
       "sha256": "179ed3e3857a1059e3b89ff5389dcdece21cacd93383e35415a691c84c5e449e"
     },
     {
       "path": "data/raw/inventory/China_BTR1_CRT_2024-12-31_HKSAR/CHN-CRT-2024-V0.5-2021-20241231-154423_started.xlsx",
-      "acquisition": "Restore versioned input bundle; see docs/acquisition.md",
+      "acquisition": "Provide the Hong Kong CRT workbook from the China BTR1 CRT 2024 submission, retaining its original filename.",
       "sha256": "3f8507cc6e65b651956228a63f25a616a045eb05266b922aff52982834478aba"
     },
     {
@@ -254,7 +254,7 @@
     },
     {
       "path": "data/raw/legacy/HK.xlsx",
-      "acquisition": "Restore versioned input bundle; see docs/acquisition.md",
+      "acquisition": "Provide the licensed CEIC workbook with historical monthly petrol, diesel and LPG demand. No public download is configured.",
       "sha256": "d53d65e06d0d0a3396d87ffd06284b6bd2a9f80afe457bed42b808af486980a6"
     },
     {
@@ -271,7 +271,7 @@
     },
     {
       "path": "data/raw/power/HK_power_generation_2010_2025.xlsx",
-      "acquisition": "Restore versioned input bundle; see docs/acquisition.md",
+      "acquisition": "Provide the CLP/HK Electric generation compilation, with the CLP stations and HKE generation source sheets.",
       "sha256": "0c7cd7f6cf69008c7bcec7cc101136258538c10ee9f468e4de1e89fc4006a661"
     },
     {

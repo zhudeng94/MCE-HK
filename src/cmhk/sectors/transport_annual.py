@@ -126,7 +126,7 @@ def main():
                     method='CRT-weighted road index and EMSD marine-energy index; residual follows composite index',
                     status='Adopted annual 1.A.3 proxy; feeds main monthly Transport',
                     input_sha256={str(p.relative_to(ROOT)): hashlib.sha256(p.read_bytes()).hexdigest() for p in inputs},
-                    code_sha256=code_hashes(names=['transport_proxy.py', 'transport_inventory.py', 'compare_inventory.py']))
+                    code_sha256={**code_hashes(names=['transport_proxy.py', 'transport_inventory.py']), 'src/cmhk/sources/inventory.py': hashlib.sha256((ROOT/'src/cmhk/sources/inventory.py').read_bytes()).hexdigest()})
     (out / 'proxy_manifest.json').write_text(json.dumps(manifest, indent=2)+'\n')
     plot(result, out)
     write_report(result, checks, baseline, manifest, out)

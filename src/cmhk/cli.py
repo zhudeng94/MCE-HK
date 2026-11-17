@@ -3,6 +3,7 @@ import argparse
 import os
 from pathlib import Path
 import runpy
+from importlib.util import find_spec
 
 
 def main(argv=None):
@@ -21,12 +22,14 @@ def main(argv=None):
         ('uncertainty', 'Propagate uncertainty using configured draws'),
         ('validate', 'Check core result invariants'),
         ('export', 'Export the monthly results data package'),
-        ('report', 'Build the optional result report and figures'),
-        ('compare', 'Compare to cached official/Climate TRACE inventories')]:
+        ('check-results', 'Validate the published monthly results')]:
         sub.add_parser(command, help=help_)
     run = sub.add_parser('run', help='Reproduce the core dataset from cached inputs')
-    run.add_argument('--comparisons', action='store_true')
-    run.add_argument('--report', action='store_true')
+    if find_spec('cmhk.analysis') is not None:
+        sub.add_parser('report', help='Build the optional local report')
+        sub.add_parser('compare', help='Run optional local comparisons')
+        run.add_argument('--comparisons', action='store_true')
+        run.add_argument('--report', action='store_true')
     run.add_argument('--test', action='store_true')
     args = parser.parse_args(argv)
     if args.workspace:
@@ -39,7 +42,11 @@ def main(argv=None):
         from cmhk.sources.audit import check_inputs
         check_inputs()
         from cmhk.pipeline import run
-        run(ROOT, comparisons=args.comparisons, report=args.report, tests=args.test)
+        run(ROOT, comparisons=getattr(args, 'comparisons', False), report=getattr(args, 'report', False), tests=args.test)
+        return None
+    if args.command == 'check-results':
+        from cmhk.results import validate
+        validate(ROOT)
         return None
     if args.command == 'fetch':
         import sys

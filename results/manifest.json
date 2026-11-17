@@ -1,0 +1,71 @@
+{
+  "file": "MCE_HK_monthly.csv",
+  "unit": "ktCO2",
+  "date_format": "YYYYMM",
+  "columns": [
+    "date",
+    "sector",
+    "ktco2",
+    "ktco2_lower",
+    "ktco2_upper"
+  ],
+  "rows": 2274,
+  "common_period": [
+    "200801",
+    "202608"
+  ],
+  "coverage": {
+    "Commercial": {
+      "min": "200501",
+      "max": "202609",
+      "count": 261
+    },
+    "Domestic Navigation": {
+      "min": "200801",
+      "max": "202608",
+      "count": 224
+    },
+    "Industry": {
+      "min": "200501",
+      "max": "202609",
+      "count": 261
+    },
+    "International Aviation": {
+      "min": "200501",
+      "max": "202609",
+      "count": 261
+    },
+    "International Shipping": {
+      "min": "200501",
+      "max": "202609",
+      "count": 261
+    },
+    "Local_total": {
+      "min": "200801",
+      "max": "202608",
+      "count": 224
+    },
+    "Power": {
+      "min": "200501",
+      "max": "202609",
+      "count": 261
+    },
+    "Residential": {
+      "min": "200501",
+      "max": "202609",
+      "count": 261
+    },
+    "Road Transport": {
+      "min": "200501",
+      "max": "202608",
+      "count": 260
+    }
+  },
+  "sha256": "0a9c5f82e98f59e387d1bf3ae041b25cf261e9ed6216533db49aa785f640c8e3",
+  "as_of": "2026-11-16",
+  "config_sha256": {
+    "configs/model.json": "5b512c5902b5b1445e10851265daa212c2549eb04bc2abbddbe8f518d53bb15d",
+    "configs/uncertainty.json": "f325bb6a233fbe6a5b5a9ec1f3f979d7e858af639f12caabc38401dd06346fc2",
+    "configs/sector_mapping.json": "5bb0e7068319e4d1fbea916abbbc7388ed6c497917cc5ca89fe724542a9aaa0f"
+  }
+}

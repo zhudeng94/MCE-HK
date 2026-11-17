@@ -31,3 +31,9 @@ dist/
 /.agents/
 /.aws/
 /.codex/
+
+# Internal maintenance, regression fixtures and optional comparison tools
+/docs/
+/scripts/
+/tests/
+/src/cmhk/analysis/
